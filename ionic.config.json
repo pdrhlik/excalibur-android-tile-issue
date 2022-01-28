@@ -1,0 +1,7 @@
+{
+  "name": "excalibur-android-tile-issue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
