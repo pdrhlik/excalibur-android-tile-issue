@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "excalibur-android-tile-issue",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
